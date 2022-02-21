@@ -251,7 +251,7 @@ class _MyHomePageState extends State<MyHomePage> {
             height: MediaQuery.of(context).size.height - 425.0,
             child: ListView(
               children: <Widget>[
-                _buildCard('Gounuli', 'assets/chris.jpg', '3.7', 'The newly decorated new house is well furnished and has a beautiful environment'),
+                _buildCard('Ben', 'assets/chris.jpg', '3.7', 'The newly decorated new house is well furnished and has a beautiful environment'),
                 _buildCard('Michelle', 'assets/hugh.jpg', '4.3',
                     'Country garden a villa want to add me')
               ],
